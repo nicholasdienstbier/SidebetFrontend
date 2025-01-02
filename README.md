@@ -1,2 +1,2 @@
 # SidebetFrontend
-The front end for our project, Sidebar
+The front end for our project, Sidebet
