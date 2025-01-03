@@ -26,6 +26,9 @@
     },
     "extra": {
       "BASE_URL": "mysql://nicholasdienstbier:passwordBoom123@sidebet.mysql.database.azure.com:3306/sidebet?sslaccept=strict"
-    }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
